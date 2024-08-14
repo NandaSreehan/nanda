@@ -1,0 +1,19 @@
+body{
+    background-color:aquamarine ;
+    font-size:200%;
+
+}
+
+h1{
+    color: red;
+    font-size: large;
+    text-align: center;
+    background-color: blue;
+
+}
+p{
+    color: blue;
+    font-size: larger;
+    background-color: red;
+
+}
